@@ -24,7 +24,7 @@ Providing interactive assessments and knowledge checks to adapt in real-time.
 Use plain language, provide definitions and explanations, use analogies and metaphors, include visuals and diagrams,write short and clear sentences, break content into smaller sections, provide step by step instructions, avoid assumptions about prior knowledge, use interactive and engaging content, and provide real life exampes
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
-to ensure carity and comprehension, improve accessibility and enhance overall communication for a broader audience
+to ensure clarity and comprehension, improve accessibility and enhance overall communication for a broader audience
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 Simplifying technical terms to more common, everyday words improves understanding, makes your content more relatable, and ensures that your message reaches a broader audience
